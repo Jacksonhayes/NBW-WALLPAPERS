@@ -1,1 +1,37 @@
+[
+	{
+		"name": "Abstract 1",
+		"author": "asdlordesigns",
+		"url": "https://github.com/Jacksonhayes/Abstract/raw/main/1080.png",
+		"thumbnail": "https://github.com/Jacksonhayes/Abstract-Thumbnails/raw/main/1080.jpg",
+		"copyright": "Personal use only, credit required",
+		"collections": "Abstract"
+	},
 
+	{
+		"name": "Abstract 2",
+		"author": "asdlordesigns",
+		"url": "https://github.com/Jacksonhayes/Abstract/raw/main/1082.png",
+		"thumbnail": "https://github.com/Jacksonhayes/Abstract-Thumbnails/raw/main/1082.jpg",
+		"copyright": "Personal use only, credit required",
+		"collections": "Abstract"
+	},
+
+	{
+		"name": "Abstract 3",
+		"author": "asdlordesigns",
+		"url": "https://github.com/Jacksonhayes/Abstract/raw/main/1084.png",
+		"thumbnail": "https://github.com/Jacksonhayes/Abstract-Thumbnails/raw/main/1084.jpg",
+		"copyright": "Personal use only, credit required",
+		"collections": "Abstract"
+	},
+
+	{
+		"name": "Abstract 4",
+		"author": "asdlordesigns",
+		"url": "https://github.com/Jacksonhayes/Abstract/raw/main/1083.png",
+		"thumbnail": "https://github.com/Jacksonhayes/Abstract-Thumbnails/raw/main/1083.jpg",
+		"copyright": "Personal use only, credit required",
+		"collections": "Abstract"
+	},
+]
