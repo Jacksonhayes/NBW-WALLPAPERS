@@ -79,7 +79,7 @@
   
 
 
-{
+  {
     "author": "asdlordesigns",
     "name": "Pattern 1 ",
     "url": "https://github.com/Jacksonhayes/Pattern/raw/main/1239.png",
@@ -139,7 +139,7 @@
 
 
 
-{
+  {
     "author": "asdlordesigns",
     "name": "Minimal 1 ",
     "url": "https://github.com/Jacksonhayes/Minimal/raw/main/20201224_144059.png",
@@ -215,5 +215,135 @@
     "url": "https://github.com/Jacksonhayes/Minimal/raw/main/20210124_190913_0000.png",
     "collections": "Minimal",
     "thumbnail": "https://github.com/Jacksonhayes/Minimal-Thump/raw/main/20210124_190913_0000.jpg"
+  },
+
+
+
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 1 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210213_141207.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210213_141207.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 2 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210213_221410.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210213_221410.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 3 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_113856.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_113856.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 4 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114228.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114228.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 5 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114355.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114355.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 6 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114407.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114407.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 7 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114424.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114424.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 8 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114458.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114458.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 9 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_114519.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_114519.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 10 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_142011.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_142011.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 11 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_142132.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_142132.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 12 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_142144.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_142144.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 13 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_142213.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_142213.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 14 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210220_142257.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210220_142257.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 15 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210222_083209.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210222_083209.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 16 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210222_084007.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210222_084007.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 17 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210222_084321.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210222_084321.jpg"
+  },
+  {
+    "author": "asdlordesigns",
+    "name": "Gradient 18 ",
+    "url": "https://github.com/Jacksonhayes/Gradient/raw/main/20210222_084356.png",
+    "collections": "Gradient",
+    "thumbnail": "https://github.com/Jacksonhayes/Gradient-thump/raw/main/20210222_084356.jpg"
   }
+  
 ]
