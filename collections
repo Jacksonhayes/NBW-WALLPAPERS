@@ -1,0 +1,89 @@
+{
+  "collections": [
+  {
+    "name": "celestine",
+    "desc": "Pastel - Not too vibrant",
+    "premium": true
+  },
+  {
+    "name": "desiree",
+    "desc": "Minimal - Space That Matters",
+    "premium": true
+  },
+  {
+    "name": "eleonore",
+    "desc": "Illustration - Visualization or a Depiction",
+    "premium": true
+  },
+  {
+    "name": "lela",
+    "desc": "Amoled - Black That Does Matter",
+    "premium": true
+  },
+  {
+    "name": "lisse",
+    "desc": "Gradients - Let The Colors Flow",
+    "premium": true
+  },
+  {
+    "name": "mirielle",
+    "desc": "Renders - Handcrafted 3D Renders",
+    "premium": true
+  },
+  {
+    "name": "modele",
+    "desc": "Pattern - Repetitive & Decorative ",
+    "premium": true
+  },
+  {
+    "name": "pente",
+    "desc": "Stripes - Through The Lines",
+    "premium": true
+  },
+  {
+    "name": "renee",
+    "desc": "Abstract - The Unframed Work Of Art",
+    "premium": true
+  },
+  {
+    "name": "typographie",
+    "desc": "Typography - Letters That Fills",
+    "premium": true
+  },
+  {
+    "name": "zoe",
+    "desc": "Colorful - Vibrant Collection",
+    "premium": true
+  },
+  {
+    "name": "fabrique",
+    "desc": "Crafted - Curated Artwork",
+    "premium": true
+  },
+  {
+    "name": "arch",
+    "desc": "Spheres ,Cubes & Cones",
+    "premium": true
+  },
+  {
+    "name": "floral",
+    "desc": "Curated Ilustrations",
+    "premium": true
+  },
+  {
+    "name": "cg art",
+    "desc": "Artficial Imagery",
+    "premium": true
+  },
+  {
+    "name": "8bit",
+    "desc": "Retro Style Pixelated Wallpapers",
+    "premium": true
+  },
+  {
+    "name": "geometric",
+    "desc": "Circles,Squares & Triangles",
+    "premium": true
+  }
+]
+}
